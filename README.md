@@ -132,33 +132,7 @@ The vision of AIM is to:
 
 ## Installation (For Developers)
 
-### **Frontend**
-1. Clone the repository:
-   bash
-   git clone https://github.com/your-repo-name.git
-   cd frontend
-   
-2. Install dependencies:
-   bash
-   npm install
-   
-3. Start the development server:
-   bash
-   npm start
-   
-
-### **Backend**
-1. Navigate to the backend folder:
-   bash
-   cd backend
-   
-2. Install dependencies:
-   bash
-   npm install
-   
-3. Start the server:
-   bash
-   node server.js
+(Need some experts doing this!)
    
 
 ---
